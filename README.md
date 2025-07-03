@@ -1,1 +1,1 @@
-# Updated Cocktail Dashboard – bug‑fixed
+Bug‑hardened dashboard
